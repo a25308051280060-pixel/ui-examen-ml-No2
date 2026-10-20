@@ -1,0 +1,11 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Video: video-gato-0060.mp4
+Resolucion original: 720 x 1280
+FPS originales: 29.97
+Duracion estimada: 13.15 s
+Fotogramas leidos: 394
+Fotogramas guardados: 7
+FPS promedio de procesamiento: 117.86
+Tiempo total de ejecucion: 16.24 s
+Intervalo de guardado: 2.0 s
